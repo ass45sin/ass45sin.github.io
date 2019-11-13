@@ -2048,7 +2048,8 @@ html {
 
 .mt-3,
 .my-3 {
-    margin-top: 1rem!important
+    margin-top: 1rem!important;
+    margin-bottom: 1rem!important;
 }
 
 .mr-3,
@@ -2241,7 +2242,8 @@ html {
 
 .pt-5,
 .py-5 {
-    padding-top: 3rem!important
+    padding-top: 1.5rem!important;
+    padding-bottom: 1.5rem!important
 }
 
 .pr-5,
